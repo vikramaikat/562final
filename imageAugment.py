@@ -5,6 +5,8 @@
 Depends on:
 pip install six numpy scipy Pillow matplotlib scikit-image opencv-python imageio Shapely
 pip install pip install imgaug
+
+'batch' inputs are lists of numpy array images
 ####################################################
 '''
 import numpy as np
