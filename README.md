@@ -1,6 +1,6 @@
 # 562final
 
-## Group Members:
+## Group Members
 
 Vikram Aikat: 714258926
 
