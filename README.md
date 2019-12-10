@@ -11,6 +11,7 @@ Rohan Arora: 730060952
 Sam Nielsen: 714258926
 
 ## Report
+[Read the report here](comp562pneumonia.pdf)
 
 ## Dataset
 
